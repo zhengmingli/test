@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\vsproject\oj\oj\源.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  OJ.vcxproj -> E:\vsproject\OJ\Debug\OJ.exe
+  OJ.vcxproj -> E:\vsproject\OJ\Debug\OJ.pdb (Full PDB)
